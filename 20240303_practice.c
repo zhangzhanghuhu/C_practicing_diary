@@ -1,5 +1,5 @@
 
-//Ó¡³öhello world£¡
+//å°å‡ºhello worldï¼
 /*
 #include <stdio.h>
 int main()
@@ -9,7 +9,7 @@ int main()
 }
 */
 
-//Ó¡³öHello "C" world!
+//å°å‡ºHello "C" world!
 /*
 #include <stdio.h>
 int main()
@@ -19,7 +19,7 @@ int main()
 }
 */
 
-//ÇóÁ½¸öÕûÊıµÄºÍ
+//æ±‚ä¸¤ä¸ªæ•´æ•°çš„å’Œ
 /*
 #include <stdio.h>
 int main()
@@ -35,7 +35,7 @@ int main()
 }
 */
 
-//ÇóÈı¸öÕûÊıµÄºÍ
+//æ±‚ä¸‰ä¸ªæ•´æ•°çš„å’Œ
 /*
 #include <stdio.h>
 int main()
@@ -53,7 +53,7 @@ int main()
 }
 */
 
-//½»»»Á½¸öÕûÊıÖµ£º½«a¡¢b·Åµ½b¡¢a
+//äº¤æ¢ä¸¤ä¸ªæ•´æ•°å€¼ï¼šå°†aã€bæ”¾åˆ°bã€a
 /*
 #include <stdio.h>
 int main()
@@ -74,7 +74,7 @@ int main()
 }
 */
 
-//½»»»Èı¸öÕûÊıÖµ£º½«a¡¢b¡¢c·Åµ½b¡¢c¡¢a
+//äº¤æ¢ä¸‰ä¸ªæ•´æ•°å€¼ï¼šå°†aã€bã€cæ”¾åˆ°bã€cã€a
 #include <stdio.h>
 int main()
 {
